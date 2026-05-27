@@ -40,3 +40,8 @@ Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
+
+
+# ignore data mysql
+mysql-export
+mysql-export.tar.gz
